@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/railsudemydale2/cameron_view_tool
+  revision: 35eec807f51f21dcd1ae60f331190bf6054e5501
+  specs:
+    cameron_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -215,6 +221,7 @@ DEPENDENCIES
   bootsnap (>= 1.4.4)
   bootstrap (~> 5.0.1)
   byebug
+  cameron_view_tool!
   devise (~> 4.8)
   friendly_id (~> 5.4.0)
   jbuilder (~> 2.7)
