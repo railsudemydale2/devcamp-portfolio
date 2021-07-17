@@ -17,6 +17,6 @@ module ApplicationHelper
   end
 
   def copyright_generator
-    @copyright = CameronViewTool::Renderer.copyright 'Dale Stewart', 'All rights reserved'
+     CameronViewTool::Renderer.copyright 'Dale Stewart', 'All rights reserved'
   end
 end
