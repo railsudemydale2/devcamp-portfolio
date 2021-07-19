@@ -50,7 +50,7 @@ gem 'rubocop', group: :development
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-gem 'bootstrap', '~> 4.0.0.alpha6'
+gem 'bootstrap', '~> 4.3.1'
 gem 'ostruct', '~> 0.4.0'
 
 gem 'cameron_view_tool', '~> 0.1.0'
